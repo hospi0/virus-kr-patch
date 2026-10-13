@@ -1,0 +1,34 @@
+# 자리(원문 바이트 길이)에 맞춘 짧은 번역 — ID	번역(전체). smerge 가 받은 번역·보충 번역 대신 씀.
+# ITEMDATA 설명은 게임이 «원래 파일 위치»로 찾음(2026-10-13 무기 교환 «설명 없음» — 패치본에서도 칼 설명을 0x29F770 에서 읽음) → 제자리·원문 길이 안.
+ITEMDATA_00E70	<qz00m0424lnlm0424>적의 공격을 일시적으로 무효화하는 실드
+ITEMDATA_00EAA	<qz00m0424lnlm0424>정신력을 일정량 회복
+ITEMDATA_00F62	<qz00m0424lnlm0424>선귀등딱지
+ITEMDATA_00F7E	<qz00m0424lnlm0424>숲에서 찾은 불꽃
+ITEMDATA_00FA2	<qz00m0424lnlm0424>미레이가 쓰던 오카리나
+ITEMDATA_00FCC	<qz00m0424lnlm0424>황신을 소환
+ITEMDATA_01056	<qz00m0424lnlm0424>미레이 노래의 악보봉
+ITEMDATA_010F6	<qz00m0424lnlm0424>『성스러운 호수』용 산소통
+ITEMDATA_011AE	<qz00m0424lnlm0424>리커버레이트를 안정시키는 치료기기
+ITEMDATA_01210	<qz00m0424lnlm0424>아무 기록도 없는 디스크
+ITEMDATA_01406	<qz00m0424lnlm0424>도나의 위치를 알리는 탐사 장치
+ITEMDATA_01436	<qz00m0424lnlm0424>질 신부의 책장에서 찾은 악보
+ITEMDATA_01464	<qz00m0424lnlm0424>질 신부의 사실에서 찾은 포토 데이터
+ITEMDATA_014C8	<qz00m0424lnlm0424>침몰선에서 찾은 라디오
+ITEMDATA_01526	<qz00m0424lnlm0424>먹음직한 야자 열매
+ITEMDATA_0158C	<qz00m0424lnlm0424>한 중위가 변호사에게 맡긴 데이터
+ITEMDATA_015C0	<qz00m0424lnlm0424>방어력을 높인 신형강화복
+ITEMDATA_015EA	<qz00m0424lnlm0424>침몰선에서 찾은 미술품
+ITEMDATA_01644	<qz00m0424lnlm0424>설명없음
+ITEMDATA_0165E	<qz00m0424lnlm0424>설명없음
+ITEMDATA_01678	<qz00m0424lnlm0424>설명없음
+ITEMDATA_01692	<qz00m0424lnlm0424>설명없음
+ITEMDATA_016AC	<qz00m0424lnlm0424>설명없음
+ITEMDATA_016C6	<qz00m0424lnlm0424>설명없음
+ITEMDATA_016E0	<qz00m0424lnlm0424>유적의 문을 열 수 있을 듯한 돌
+ITEMDATA_01770	<qz00m0424lnlm0424>초기장비 전투용 나이프
+ITEMDATA_017C0	<qz00m0424lnlm0424>해변에서 주운 피어스
+ITEMDATA_017E8	<qz00m0424lnlm0424>침몰선에서 찾은 소형 총
+ITEMDATA_018C4	<qz00m0424lnlm0424>정신력 완전 회복
+ITEMDATA_0190E	<qz00m0424lnlm0424>ＡＰ 완전 회복
+ITEMDATA_01968	<qz00m0424lnlm0424>일정 시간 상대를 묶어 둔다
+ITEMDATA_01A3C	<qz00m0424lnlm0424>클러스터로 환금되는 주권
